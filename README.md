@@ -1,7 +1,7 @@
-# Minimal reproducible example for `DataFrame.apply` type hints
+# Minimal reproducible example for `DataFrame.apply` type hints vs. returning `set` from the applied function
 
 This is a minimal reproducible example for [this StackOverflow
-question](https://example.com).
+question](https://stackoverflow.com/q/79250681/1826241).
 
 Instructions:
 
